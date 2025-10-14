@@ -1,5 +1,7 @@
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
+import ua.opnu.java.inheritance.Point3D;
+import ua.opnu.java.inheritance.geometry.Point;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
